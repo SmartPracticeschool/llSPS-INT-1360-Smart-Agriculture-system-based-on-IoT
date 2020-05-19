@@ -1,0 +1,15 @@
+Daily Report
+
+
+16-05-2020:
+project scope,Schedule Team & deliverables are thoroughly processed and understood.
+problem with kick off project template.
+GitHub account got linked with the project repository.
+Slack account created.
+Learnt how to use ZOHO document writer.
+Created IBM account.
+install nodered completed.
+Python ide installed already.
+Launched IBM Watson IOT platform, learnt how to create device and connect to simulator to IBM Watson.
+
+
