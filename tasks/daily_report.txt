@@ -13,3 +13,16 @@ Python ide installed already.
 Launched IBM Watson IOT platform, learnt how to create device and connect to simulator to IBM Watson.
 
 
+19-05-2020:
+Installed ibmiot nodes in the nodeRed to send and receive data from ibm cloud
+Configured nodes to receive the simulator data from ibm cloud
+
+20-05-2020
+Created account in OpenWeather and created API key
+Learnt how to keep a HTTP request
+Configured NodeRed to receive openweather data
+
+21-05-2020
+Configured nodes to display received data using nodeRed dashboard UI
+Completed building web app
+Written Python code to receive motor controls.
