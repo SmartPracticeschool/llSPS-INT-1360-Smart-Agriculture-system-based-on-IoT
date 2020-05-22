@@ -41,4 +41,4 @@ It has 2 tabs in it's UI
 
    This tab contains the controls of motor to switch it on, off and also a button to specify motor to run for 30 minutes continuosly.
    
-   ![Controls tab[(/tasks/Controls_UI.png)
+   ![Controls tab](/tasks/Controls_UI.png)
