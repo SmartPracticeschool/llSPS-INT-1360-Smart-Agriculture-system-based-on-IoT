@@ -49,16 +49,16 @@ There are two tabs in this Web App :
 
 This is the program flow of the web app created using NodeRed. 
 
->flows.json is the nodeRed file.
+>[flows.json](/flows.json) is the nodeRed file.
 
   ![flow](/tasks/program_flow.png)
   
 ## Virtual Farm Command Receiver on Python
 
-Commands from the NodeRed are sent to the cloud and the following commands are received using Raspberry Pi or any other device with the following python code. (i.e, iot_motor.py)
+Commands from the NodeRed are sent to the cloud and the following commands are received using Raspberry Pi or any other device with the following python code. (i.e, [iot_motor.py](/iot_motor.py))
 
 Below image contains the python console showing the received commands.
 
 ![Receiver](/tasks/motor_output_in_console.PNG)
   
-#### For a detailed view of the project, read project report
+#### For a detailed view of the project, read [project report](/project_report.pdf).
