@@ -4,7 +4,7 @@ This is a system which enables farmers to monitor and control their farms with a
 
 ## Description
 
-  >Smart Agriculture System based on IoT can monitor soil moisture and climatic conditions to grow and yield a good crop.
+>Smart Agriculture System based on IoT can monitor soil moisture and climatic conditions to grow and yield a good crop.
   
   >The farmer can also get the realtime weather forecasting data by using external platforms like Open Weather API.
   
