@@ -8,26 +8,26 @@ This is a system which enables farmers to monitor and control their farms with a
   
   * The farmer can also get the realtime weather forecasting data by using external platforms like Open Weather API.
   
-  * Farmer is provided a mobile app using which he can monitor the temperature,humidity and soil moisture parameters along with weather forecasting details.
+  * Farmer is provided a mobile app using which he can monitor the temperature, humidity and soil moisture parameters along with weather forecasting details.
   
   * Based on all the parameters he can water his crop by controlling the motors using the mobile application.
   
   * Even if the farmer is not present near his crop he can water his crop by controlling the motors using the mobile application from anywhere.
   
-  * Here we are using the Online IoT simulator for getting the Temperature,Humidity and Soil Moisture values.
+  * Here we are using the Online IoT simulator for getting the Temperature, Humidity and Soil Moisture values.
 
 ## Simulator
 
-The data of the farm like soil moisture,humidity and temperature are collected from sensors and then need to be sent to cloud
-but here I am using a simulator in which we are going to connect it to the IBM cloud account and send data to cloud
+The data of the farm like soil moisture, humidity and temperature are collected from sensors and then need to be sent to cloud
+but here I am using a simulator in which we are going to connect it to the IBM cloud account and send data to cloud.
 
 ![Simulator](/tasks/IoT_simulator.png)
 
 ## Web App User Interface
 
-Web App is created using NodeRed 
+Web App is created using NodeRed.
 
-There are two tabs in this Web App
+There are two tabs in this Web App :
 
 ###  1.Home tab
 
@@ -47,13 +47,13 @@ There are two tabs in this Web App
 
 This is the program flow of the web app created using NodeRed. 
 
->flow.json is the nodeRed file
+>flow.json is the nodeRed file.
 
   ![flow](/tasks/program_flow.png)
   
 ## Virtual Farm Command Receiver on Python
 
-Commands from the NodeRed are sent to the cloud and the following commands are received using Raspberry Pi or any other device with the following python code (i.e,iot_motor.py)
+Commands from the NodeRed are sent to the cloud and the following commands are received using Raspberry Pi or any other device with the following python code. (i.e, iot_motor.py)
 
 Below image contains the python console showing the received commands.
 
