@@ -57,5 +57,5 @@ Commands from the NodeRed are sent to the cloud and the following commands are r
 
 Below image contains the python console showing the received commands.
 
-![Receiver](/tasks/motor_output_in_console.png)
+![Receiver](/tasks/motor_output_in_console.PNG)
   
