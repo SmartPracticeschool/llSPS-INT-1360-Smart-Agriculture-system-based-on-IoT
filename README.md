@@ -49,7 +49,7 @@ There are two tabs in this Web App :
 
 This is the program flow of the web app created using NodeRed. 
 
->flow.json is the nodeRed file.
+>flows.json is the nodeRed file.
 
   ![flow](/tasks/program_flow.png)
   
