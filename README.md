@@ -21,4 +21,4 @@ This is a system which enables farmers to monitor and control their farms with a
 The data of the farm like soil moisture,humidity and temperature are collected from sensors and then need to be sent to cloud
 but here I am using a simulator in which we are going to connect it to the IBM cloud account and send data to cloud
 
-![Simulator](/tasks/IoT simulator.png)
+![Simulator](/tasks/document_writer.png)
