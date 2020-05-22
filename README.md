@@ -22,3 +22,23 @@ The data of the farm like soil moisture,humidity and temperature are collected f
 but here I am using a simulator in which we are going to connect it to the IBM cloud account and send data to cloud
 
 ![Simulator](/tasks/IoT_simulator.png)
+
+## Web App User Interface
+
+Web App is created using NodeRed 
+
+It has 2 tabs in it's UI 
+
+###  1.Home tab
+
+   This tab contains measured and online weather forecast data displayed in guages.
+  
+   I used [OpenWeather!](https://openweathermap.org/guide) to collect weather forecast data
+   
+   ![Home tab](/tasks/Home_UI.png)
+   
+###  2.Controls tab
+
+   This tab contains the controls of motor to switch it on, off and also a button to specify motor to run for 30 minutes continuosly.
+   
+   ![Controls tab[(/tasks/Controls_UI.png)
