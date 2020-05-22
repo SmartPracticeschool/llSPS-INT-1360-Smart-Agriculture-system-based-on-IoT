@@ -21,6 +21,8 @@ This is a system which enables farmers to monitor and control their farms with a
 The data of the farm like soil moisture, humidity and temperature are collected from sensors and then need to be sent to cloud
 but here I am using a simulator in which we are going to connect it to the IBM cloud account and send data to cloud.
 
+The simulator I used is [here](https://watson-iot-sensor-simulator.mybluemix.net/)
+
 ![Simulator](/tasks/IoT_simulator.png)
 
 ## Web App User Interface
@@ -33,7 +35,7 @@ There are two tabs in this Web App :
 
    This tab contains measured and online weather forecast data displayed in guages.
   
-   I used [OpenWeather!](https://openweathermap.org/guide) to collect weather forecast data.
+   I used [OpenWeather](https://openweathermap.org/guide) to collect weather forecast data.
    
    ![Home tab](/tasks/Home_UI.png)
    
