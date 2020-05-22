@@ -15,3 +15,9 @@ This is a system which enables farmers to monitor and control their farms with a
   * Even if the farmer is not present near his crop he can water his crop by controlling the motors using the mobile application from anywhere.
   
   * Here we are using the Online IoT simulator for getting the Temperature,Humidity and Soil Moisture values.
+
+## Simulator
+
+The data of the farm like soil moisture,humidity and temperature are collected from sensors and then need to be sent to cloud
+but here I am using a simulator in which we are going to connect it to the IBM cloud account and send data to cloud
+
