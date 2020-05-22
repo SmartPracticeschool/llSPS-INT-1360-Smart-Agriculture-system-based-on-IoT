@@ -11,11 +11,11 @@ import ibmiotf.application # to install pip install ibmiotf
 import ibmiotf.device
 
 #Provide your IBM Watson Device Credentials
-organization = "9wbx5m" #replace the ORG ID
-deviceType = "iotdevice1"#replace the Device type wi
-deviceId = "qwerty123"#replace Device ID
+organization = "9wbx5m"
+deviceType = "iotdevice1"
+deviceId = "qwerty123"
 authMethod = "token"
-authToken = "johnyjohnyyespapa" #Replace the authtoken
+authToken = "johnyjohnyyespapa" 
 
 def myCommandCallback(cmd): # function for Callback
         print("Command received: %s" % cmd.data)
