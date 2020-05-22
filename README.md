@@ -27,13 +27,13 @@ but here I am using a simulator in which we are going to connect it to the IBM c
 
 Web App is created using NodeRed 
 
-It has 2 tabs in it's UI 
+There are two tabs in this Web App
 
 ###  1.Home tab
 
    This tab contains measured and online weather forecast data displayed in guages.
   
-   I used [OpenWeather!](https://openweathermap.org/guide) to collect weather forecast data
+   I used [OpenWeather!](https://openweathermap.org/guide) to collect weather forecast data.
    
    ![Home tab](/tasks/Home_UI.png)
    
@@ -42,3 +42,20 @@ It has 2 tabs in it's UI
    This tab contains the controls of motor to switch it on, off and also a button to specify motor to run for 30 minutes continuosly.
    
    ![Controls tab](/tasks/Controls_UI.png)
+
+## NodeRed Program Flow
+
+This is the program flow of the web app created using NodeRed. 
+
+>flow.json is the nodeRed file
+
+  ![flow](/tasks/program_flow.png)
+  
+## Virtual Farm Command Receiver on Python
+
+Commands from the NodeRed are sent to the cloud and the following commands are received using Raspberry Pi or any other device with the following python code (i.e,iot_motor.py)
+
+Below image contains the python console showing the received commands.
+
+![Receiver](/tasks/motor_output_in_console.png)
+  
