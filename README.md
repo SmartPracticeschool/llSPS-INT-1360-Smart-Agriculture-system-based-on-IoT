@@ -61,3 +61,4 @@ Below image contains the python console showing the received commands.
 
 ![Receiver](/tasks/motor_output_in_console.PNG)
   
+#### For a detailed view of the project, read project report
