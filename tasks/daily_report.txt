@@ -26,3 +26,6 @@ Configured NodeRed to receive openweather data
 Configured nodes to display received data using nodeRed dashboard UI
 Completed building web app
 Written Python code to receive motor controls.
+
+23-05-2020
+Prepared a complete and detailed project report
