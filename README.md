@@ -62,3 +62,7 @@ Below image contains the python console showing the received commands.
 ![Receiver](/tasks/motor_output_in_console.PNG)
   
 #### For a detailed view of the project, read [project report](/project_report.pdf).
+
+#### [Link](https://drive.google.com/file/d/1pfUo5zJiGvpo400BftvgWrvTK-bF2KCe/view?usp=sharing) for the project demo video
+
+#### [Link](https://drive.google.com/file/d/1j-ilw0xhM1oEjUQRCwn6GU1-bYLUSSFe/view?usp=sharing) for the internship feedback video
